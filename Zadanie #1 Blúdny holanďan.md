@@ -1,6 +1,6 @@
 # Zadanie #1: Blúdny holanďan
 
-Nadaný počítačový vedec z Holandska menom [Edsger](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) si každý deň o 4:20pm dopraje pochutinu z miestnej predajne. Ako to už býva, dostane potom chuť na ďalšiu pochutinu - ***[Stroopwafel](https://en.wikipedia.org/wiki/Stroopwafel).*** 
+Nadaný počítačový vedec z Holandska menom [Edsger](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) si každý deň o 4:20pm dopraje pochutinu z miestnej predajne. Ako to už býva, dostane potom chuť na ďalšiu pochutinu - **[Stroopwafel](https://en.wikipedia.org/wiki/Stroopwafel).** 
 
 Edsger však začal byť ospalý a preto sa rozhodol, že si vyrobí autonómny bicykel, ktorý mu ich sám prinesie. Aby sa pri hľadaní najbližšieho stánku so Stroopwafel bicykel nestratil, vymyslel pre neho [algoritmus](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm), ktorý mu pomôže nájsť najkratšiu cestu.
 
@@ -12,7 +12,7 @@ Amsterdam je rozľahlý a autonómny bicykel by sa ľahko stratil, preto mu mus�
 
 ![Untitled](https://github.com/herich-dusan/ISMR/blob/main/map.png?raw=true)
 
-Vašou úlohou je do triedy pripravenej v súbore ************[map.py](http://map.py)** z objektov triedy v súbore node.py ************************vytvoriť reprezentáciu mapy, ktorú bude bicykel pri hľadaní používať.
+Vašou úlohou je do triedy pripravenej v súbore map.py z objektov triedy v súbore node.py vytvoriť reprezentáciu mapy, ktorú bude bicykel pri hľadaní používať.
 
 Trieda Node má nasledujúce parametre:
 
@@ -31,7 +31,7 @@ V rovnakej triede sa nachádzajú nasledovné metódy:
 
 Trieda Map má nasledujúce parametre:
 
-- size: Veľkosť ************strany************ mapy, ktorú je potrebné vytvoriť
+- size: Veľkosť **strany** mapy, ktorú je potrebné vytvoriť
 
 V rovnakej triede sa nachádzajú nasledovné metódy:
 
