@@ -10,7 +10,7 @@ Návrh algoritmu Edsgera vyčerpal natoľko, že zaspal a preto potrebuje vašu 
 
 Amsterdam je rozľahlý a autonómny bicykel by sa ľahko stratil, preto mu musíme dať mapu. Edsgerov nápad bol rozdeliť mapu na rovnaké štvorčeky. Potom už len zostáva zistiť, či sa v niektorom štvorčeku nachádza budova, alebo či ním môže bicykel bez problému prejsť.
 
-![Untitled](Zadanie%20#1%20Blu%CC%81dny%20holand%CC%8Can%203c915fbdb1944647bfc5f8f4573c1d7c/Untitled.png)
+![Untitled](https://github.com/herich-dusan/ISMR/blob/main/map.png?raw=true)
 
 Vašou úlohou je do triedy pripravenej v súbore ************[map.py](http://map.py)** z objektov triedy v súbore node.py ************************vytvoriť reprezentáciu mapy, ktorú bude bicykel pri hľadaní používať.
 
