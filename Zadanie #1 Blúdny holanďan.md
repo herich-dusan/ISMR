@@ -27,7 +27,7 @@ V rovnakej triede sa nachádzajú nasledovné metódy:
 - set_neighbors(self, neighbors): List priľahlých buniek nahradí listom buniek v parametri neigbors
 - add_neighbor(self, neighbor): Pridá do zoznamu susedných buniek objekt v parametri neighbor
 - remove_neighbor(self, neighbor): Odoberie zo zoznamu susedných buniek objekt v parametri neighbor
-- get_distance(self, node): Vráti euklidovskú vzdialenosť ku podľa koordinátov objektu node
+- get_distance(self, node): Vráti euklidovskú vzdialenosť ku podľa koordinátov objektu node **Hint: Ak je aspoň jedna bunka obsadená, vrátená vzdialenosť musí byť nekonečne veľká."
 
 Trieda Map má nasledujúce parametre:
 
